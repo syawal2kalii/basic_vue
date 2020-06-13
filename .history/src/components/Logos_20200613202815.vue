@@ -13,13 +13,6 @@
         <div class="items-logos">
             <img src="" alt="">
         </div>
-        <div class="items-logos">
-            <img src="" alt="">
-        </div>
-        <div class="items-logos">
-            <img src="" alt="">
-        </div>
-        
     </div>
 </template>
 <script>
@@ -38,8 +31,6 @@ export default {
         width: 150px;
         height: 150px;
         background-color: red;
-        float: left;
-        margin-right: 20px;
     }
 
 </style>

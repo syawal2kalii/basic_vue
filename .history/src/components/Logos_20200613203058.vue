@@ -16,9 +16,6 @@
         <div class="items-logos">
             <img src="" alt="">
         </div>
-        <div class="items-logos">
-            <img src="" alt="">
-        </div>
         
     </div>
 </template>
