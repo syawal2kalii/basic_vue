@@ -14,7 +14,7 @@
             <img src="../assets/logo/django.png" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/git.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
             <img src="" alt="">

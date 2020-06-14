@@ -2,19 +2,19 @@
     <div class="logos-wrapper">
         <h2>Find Best Logos</h2>
         <div class="items-logos">
-            <img src="../assets/logo/vue.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/react.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/laravel.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/django.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/git.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
             <img src="" alt="">
@@ -36,14 +36,10 @@ export default {
     .items-logos{
         width: 150px;
         height: 150px;
+        background-color: red;
         float: left;
         margin-right: 20px;
         margin-bottom: 20px;
-    }
-
-    .items-logos img{
-        width: 100%;
-        height: 100%;
     }
 
 </style>

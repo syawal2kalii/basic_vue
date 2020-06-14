@@ -8,13 +8,13 @@
             <img src="../assets/logo/react.png" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/laravel.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/django.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/git.png" alt="">
+            <img src="" alt="">
         </div>
         <div class="items-logos">
             <img src="" alt="">
