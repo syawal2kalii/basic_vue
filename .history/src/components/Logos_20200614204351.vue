@@ -17,6 +17,9 @@
             <img src="../assets/logo/git.png" alt="">
         </div>
         <div class="items-logos">
+            <img src="" alt="">
+        </div>
+        <div class="items-logos">
             <img src="../assets/logo/vue.png" alt="">
         </div>
         <div class="items-logos">
@@ -30,6 +33,9 @@
         </div>
         <div class="items-logos">
             <img src="../assets/logo/git.png" alt="">
+        </div>
+        <div class="items-logos">
+            <img src="" alt="">
         </div>
         
     </div>
@@ -50,17 +56,13 @@ export default {
         width: 150px;
         height: 150px;
         float: left;
-        margin-right: 60px;
-        margin-bottom: 20px;
+        margin-right: 70px;
+        margin-bottom: 70px;
     }
 
     .items-logos img{
         width: 150px;
         height: 150px;
-    }
-
-    .logos-wrapper h2{
-        text-align: left;
     }
 
 </style>

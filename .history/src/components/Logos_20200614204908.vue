@@ -50,7 +50,7 @@ export default {
         width: 150px;
         height: 150px;
         float: left;
-        margin-right: 60px;
+        margin-left: 60px;
         margin-bottom: 20px;
     }
 

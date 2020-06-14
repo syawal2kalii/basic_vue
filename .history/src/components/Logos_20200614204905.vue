@@ -50,7 +50,7 @@ export default {
         width: 150px;
         height: 150px;
         float: left;
-        margin-right: 60px;
+        margin-left: 60px;
         margin-bottom: 20px;
     }
 
@@ -60,7 +60,7 @@ export default {
     }
 
     .logos-wrapper h2{
-        text-align: left;
+        text-align: left: ;;
     }
 
 </style>

@@ -17,21 +17,8 @@
             <img src="../assets/logo/git.png" alt="">
         </div>
         <div class="items-logos">
-            <img src="../assets/logo/vue.png" alt="">
+            <img src="" alt="">
         </div>
-        <div class="items-logos">
-            <img src="../assets/logo/react.png" alt="">
-        </div>
-        <div class="items-logos">
-            <img src="../assets/logo/laravel.png" alt="">
-        </div>
-        <div class="items-logos">
-            <img src="../assets/logo/django.png" alt="">
-        </div>
-        <div class="items-logos">
-            <img src="../assets/logo/git.png" alt="">
-        </div>
-        
     </div>
 </template>
 <script>
@@ -41,7 +28,7 @@ export default {
 </script>
 <style scoped>
     .logos-wrapper{
-        width: 80%;
+        width: 620%;
         overflow: hidden;
         margin: auto;
     }
@@ -50,17 +37,13 @@ export default {
         width: 150px;
         height: 150px;
         float: left;
-        margin-right: 60px;
+        margin-right: 20px;
         margin-bottom: 20px;
     }
 
     .items-logos img{
-        width: 150px;
-        height: 150px;
-    }
-
-    .logos-wrapper h2{
-        text-align: left;
+        width: 100%;
+        height: 100%;
     }
 
 </style>

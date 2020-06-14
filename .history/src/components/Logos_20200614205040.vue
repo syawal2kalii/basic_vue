@@ -44,6 +44,7 @@ export default {
         width: 80%;
         overflow: hidden;
         margin: auto;
+        background-color: red;
     }
 
     .items-logos{

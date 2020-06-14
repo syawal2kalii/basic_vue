@@ -44,13 +44,14 @@ export default {
         width: 80%;
         overflow: hidden;
         margin: auto;
+        background-color: red;
     }
 
     .items-logos{
         width: 150px;
         height: 150px;
         float: left;
-        margin-right: 60px;
+        margin-left: 60px;
         margin-bottom: 20px;
     }
 
